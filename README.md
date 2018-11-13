@@ -6,5 +6,5 @@
 test
 
 
+new text
 
-some other text
