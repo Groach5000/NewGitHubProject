@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 //   https://www.youtube.com/watch?v=8xd4swn5dM8&list=PL6n9fhu94yhWlAv3hnHzOaMSeggILsZFs&index=7
 // make a list of (list of objects)
 
-//This comment is addet to test commit to GitHub
+//This comment is addet to test commit to Git
 
 namespace Interview_Questions7
 {
